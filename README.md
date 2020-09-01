@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# Faerie Rock-Paper-Scissors
 This is a variant of rock-paper-scissors I made for JetBrains Academy called faerie-rps. It has 2 modes: traditional rock-paper-scissors as well as an arbitary number of user defined choices.
 
 
