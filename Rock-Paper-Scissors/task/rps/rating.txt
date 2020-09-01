@@ -1,0 +1,3 @@
+Kim 650
+Peter 200
+Jason 100
